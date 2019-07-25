@@ -1,0 +1,75 @@
+.main{
+    /*margin: 10px;    */
+    text-align: center;
+    /*background-color: gainsboro;*/
+    /*background-image: linear-gradient(to bottom, #f14ff9 , #d0d2cd);*/
+}
+
+.main .welcomeGreet,
+.main .notePoint{
+    color: #fff;
+}
+.main .welcomeGreet .userNameLabel {
+    text-decoration: underline;
+    font-weight: bold;
+}
+/*.main .welcomeGreet {
+    float: right;
+    padding-right: 1em;
+}*/
+.content{
+    text-align: left;
+    height: 100%;   
+}
+
+.eachContent{
+    margin: 2em 10em 2em 10em;
+    /*background-color: azure;*/
+}
+.eachContent p{
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+}
+.eachContent ul{
+    list-style-position: inside;
+    list-style-type: circle;
+}
+.menu li{
+    display: inline;
+    margin: 0 20px 0 0;    
+}
+
+.menu a{
+    color: black;
+}
+.navbar a{
+    cursor: pointer;
+}
+.navbar-expand-lg {
+    flex-flow: column !important;
+}
+.welcomeDiv {
+    width: 100%;
+    display: block !important;
+}
+.navbar-collapse {
+    width: 100%;
+    display: block !important;
+}
+#navbarNav ul {
+    width: 100%;
+}
+#navbarNav ul li {
+    border-right: 1px solid #333;
+    padding: 0 3.5em;
+}
+#navbarNav ul li:last-child {
+    border: none;
+}
+.showMarkUpDiv {
+    display: block;
+}
+.showNone {
+    display: none;
+}

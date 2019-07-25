@@ -1,0 +1,22 @@
+.border {
+    width: 30em;
+    text-align: center;
+    margin: 7em auto;
+    background-color: gainsboro;
+    /*padding: 6em;*/
+    padding: 5em;
+}
+
+.btn_float{
+    float: left;
+}
+.btn_float1{
+    float: right;
+}
+.container{
+    padding: 0;
+}
+
+/* #btn_login{
+    margin: 0 0 10px 0;
+} */
