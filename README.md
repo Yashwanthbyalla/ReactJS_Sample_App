@@ -43,3 +43,5 @@ After cloning or downloading, change the directory of the project in CMD (Comman
 With the above command, all the packages upn which our application is dependent will be downloaded as "node_modules" folder.
 
 
+	Note: Enter "react" as username & "js" as password in the Login Page.
+
